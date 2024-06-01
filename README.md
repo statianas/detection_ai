@@ -10,3 +10,5 @@ Code steps:
 5) Using "for_diploma_graph.py" and "mle_stats.py", we draw graphs and train models for both methods of calculating the internal dimension.
 
 The "PHD&MLE.ipynb" code works only with a ready-made dataset and calculates metrics only for it.
+
+Some examples were also posted here https://www.kaggle.com/datasets/statiana/dimgeneratedhuman-texts.
