@@ -49,3 +49,5 @@ def delete_files(directory):
                 total_files += 1
 
     return total_files, deleted_files
+
+delete_files("directory_with_files")
