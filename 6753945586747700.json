@@ -1,0 +1,19 @@
+{
+    "title": "Multinomial inverse regression for text analysis",
+    "link": "https://arxiv.org/pdf/1012.2098",
+    "year": "2013",
+    "texts": [
+        {
+            "generated": {
+                "text": "In this study, we delve into the intricate interplay between textual data and influencing variables such as product quality ratings, political affiliation, stock prices, and mood polarity. The focus is on utilizing multinomial inverse regression to analyze text data from various sources like product reviews, political speeches, financial news, and personal blog posts. By exploring how these influencing factors impact the composition of textual content, we aim to enhance our understanding of the underlying mechanisms shaping text characteristics. This approach enables a comprehensive investigation into the intricate relationships between text features and the variables that drive their formation.",
+                "dim_PHdim": 7.593978798380523,
+                "dim_MLE": 10.726498697049939
+            },
+            "real": {
+                "text": "This article investigates the relationship between text data – product reviews, political speech, ﬁnancial news, or a personal blog post – and variables that are believed to inﬂuence its composition – product quality ratings, political afﬁliation, stock price, or mood polarity. Such languagemotivating observable variables, generically termed sentiment in the context of this article, are often the main object of interest for text mining applications. When, as is typical, large amounts of text are available but only a small subset of documents are annotated with known sentiment, this relationship yields the powerful potential for text to act as a standin for related quantities of primary interest. On the other hand, language data dimension (i.e., vocabulary size) is both very large and tends to increase with the amount of observed text, making the data difﬁcult to incorporate into statistical analyses. Our goal is to introduce a straightforward framework of sentimentpreserving dimension reduction for text data. an exchangeable collection of phrase tokens.",
+                "dim_PHdim": 10.589541244867439,
+                "dim_MLE": 12.960461392293514
+            }
+        }
+    ]
+}
