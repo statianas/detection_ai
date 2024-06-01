@@ -12,3 +12,6 @@ Laubch steps:
 The "PHD&MLE.ipynb" code works only with a ready-made dataset and calculates metrics only for it.
 
 Some examples were also posted here https://www.kaggle.com/datasets/statiana/dimgeneratedhuman-texts.
+
+To install libraries:
+pip install -r requirements.txt
